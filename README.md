@@ -1,1 +1,1 @@
-# Vina-Solitario
+VinaSolitario
